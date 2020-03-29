@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+> A creative workshop where we learn about divination, the various (non-)traditional systems developed around the world, and imagine new methods of divination for the future.
 
-You can use the [editor on GitHub](https://github.com/hermetechnics/divination-workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A divination system is, strictly speaking, a very well-designed tool for Making Sense of the World. Practically every human society has developed some sort of tradition, using natural or abstract phenomena to answer questions or make decisions. These traditions were often dismissed as inferior in the scientific consensus of the 20th century. But with the arrival of the Internet and global culture, the world became a complex super-connected network and the analytical ways of Knowing are proving insufficient to make sense of it. Isn’t this hectic and unstable time the right moment to revisit the wisdom of the past?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hermetechnics/divination-workshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+At [Hermetechnics Inc.](http://hermetechnics.life), we believe that the great questions of our era cannot be answered by a cold, analytical mind alone; we need to rediscover the ancient methods and find new ways to use them in a networked society.  The ubiquity of connectedness and abundance of computational power opens the door to designing new ways of divination - question-answering - which acknowledge the complex, algorithmic and stochastic nature of our problems.
